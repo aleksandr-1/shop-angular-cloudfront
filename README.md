@@ -1,10 +1,12 @@
 # Shop Angular Cloudfront
 
-Angular version: ~12.
+## Link to CloudFront:
 
-Repo maintainers:
+https://d2mptj1huwgni.cloudfront.net
 
-- [Sergey Gultyayev](https://github.com/gultyaev)
+## Link to s3 bucket
+
+http://vinyl-shop-angular-app.s3-website-us-east-1.amazonaws.com/
 
 ## The purpose
 
