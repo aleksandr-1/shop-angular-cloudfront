@@ -2,11 +2,11 @@
 
 ## Link to CloudFront:
 
-https://d2mptj1huwgni.cloudfront.net
+https://d1v5kyotfgsokw.cloudfront.net
 
 ## Link to s3 bucket
 
-http://vinyl-shop-angular-app.s3-website-us-east-1.amazonaws.com/
+http://vinyl-records-shop-app.s3-website-eu-west-1.amazonaws.com/
 
 ## The purpose
 
